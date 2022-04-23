@@ -1,0 +1,23 @@
+.game1 {
+    background-color: black;
+    width: 640;
+    height: 480;
+}
+
+.game2 {
+    width: 875px;
+    height: 875px;
+}
+
+iframe {
+    width: 875px;
+    height: 875px;
+    border: 0px;
+    margin: 0px;
+    padding: 0px;
+}
+
+pre {
+    word-wrap: break-word; 
+    white-space: pre-wrap;
+}
