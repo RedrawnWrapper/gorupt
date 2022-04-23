@@ -5,16 +5,17 @@
 }
 
 .game2 {
-    width: 875px;
-    height: 875px;
+    background-color: black;
+    width: 875;
+    height: 875;
 }
 
 iframe {
-    width: 875px;
-    height: 875px;
-    border: 0px;
-    margin: 0px;
-    padding: 0px;
+    width: 875;
+    height: 875;
+    border: 0;
+    margin: 0;
+    padding: 0;
 }
 
 pre {
