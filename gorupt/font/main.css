@@ -28,3 +28,9 @@
   font-weight: 700;
   src: local('Open Sans Bold'), local('OpenSans-Bold'), url(https://florzaa.gq/gorupt/font/k3k702ZOKiLJc3WVjuplzInF5uFdDttMLvmWuJdhhgs.ttf) format('truetype');
 }
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Lato Regular'), local('Lato-Regular'), url(https://florzaa.gq/gorupt/font/v0SdcGFAl2aezM9Vq_aFTQ.ttf) format('truetype');
+}
